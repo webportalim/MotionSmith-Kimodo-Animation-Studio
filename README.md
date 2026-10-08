@@ -1,7 +1,7 @@
 # MotionSmith AI Animation Studio
 
 AI-assisted 3D character animation authoring for Unreal Engine 5.8. MotionSmith supports motion generation, continuation, editing and retargeting in Unreal Editor.
-add img
+![MotionSmith AI Animation Studio banner](img/banner1.jpg)
 
 Official Fab listing: https://www.fab.com/listings/21c531e5-02b0-4d4a-960d-8cceab5dba34
 
