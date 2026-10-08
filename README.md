@@ -50,6 +50,6 @@ MotionSmith performs AI inference locally after these components are installed. 
 
 - [Installation documentation](https://motionsmithai.blogspot.com/p/docs.html)
 - [Fab product page](https://www.fab.com/listings/21c531e5-02b0-4d4a-960d-8cceab5dba34)
-- Support: motionsmithai@gmail.com
+ 
 
 Free availability does not by itself grant permission to modify or redistribute the plugin or bundled assets. No open-source license is declared in this repository. The separately downloaded Runtime and Meta Llama model have their own license terms.
