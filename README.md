@@ -29,7 +29,7 @@ Allow enough disk space for the separate Runtime and model files. The plugin ZIP
 
 ## Install the GitHub plugin package
 
-1. Download `MotionSmith_1.0.0.zip` from [Releases](../../releases) once version `v1.0.0` is published.
+1. Download `MotionSmith_1.0.0.zip` from [Releases](https://github.com/webportalim/MotionSmith-Kimodo-Animation-Studio/releases) once version `v1.0.0` is published.
 2. Extract the archive so your Unreal project contains `Plugins/KimodoMotion/KimodoMotion.uplugin`.
 3. Enable **IK Rig** in Unreal Engine. Open the project with Unreal Engine 5.8; this source plugin may need to compile for your project.
 4. Download [MotionSmith Runtime 1.0.0](https://huggingface.co/Serqan/MotionSmith-Runtime/tree/main/releases/1.0.0). Extract its ZIP manually to `%LOCALAPPDATA%\MSR\`. Confirm `%LOCALAPPDATA%\MSR\runtime.json` exists.
